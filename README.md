@@ -1,2 +1,0 @@
-# MotivationMeme
-Motivation Meme 
